@@ -1,0 +1,28 @@
+﻿  unparsedsection.cpp
+  token.cpp
+  tag.cpp
+  sequence.cpp
+e:\nlp\jsgfkit\jsgfkit\sequence.cpp(44): warning C4244: “return”: 从“__int64”转换到“unsigned int”，可能丢失数据
+  rulereference.cpp
+  rule.cpp
+  requiredgrouping.cpp
+  plusoperator.cpp
+  optionalgrouping.cpp
+  matchresult.cpp
+  matchinfo.cpp
+  main.cpp
+  kleenestar.cpp
+  grammar.cpp
+e:\nlp\jsgfkit\jsgfkit\grammar.cpp(486): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+e:\nlp\jsgfkit\jsgfkit\grammar.cpp(596): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+e:\nlp\jsgfkit\jsgfkit\grammar.cpp(809): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+e:\nlp\jsgfkit\jsgfkit\grammar.cpp(1231): warning C4267: “+=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+e:\nlp\jsgfkit\jsgfkit\grammar.cpp(1292): warning C4267: “+=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+e:\nlp\jsgfkit\jsgfkit\grammar.cpp(1325): warning C4267: “+=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+e:\nlp\jsgfkit\jsgfkit\grammar.cpp(1347): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  expansion.cpp
+  alternativeset.cpp
+e:\nlp\jsgfkit\jsgfkit\alternativeset.cpp(27): warning C4244: “return”: 从“__int64”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  JSGFKit.vcxproj -> E:\NLP\JSGFKit\x64\Debug\JSGFKit.exe
+  JSGFKit.vcxproj -> E:\NLP\JSGFKit\x64\Debug\JSGFKit.pdb (Full PDB)
